@@ -1,0 +1,18 @@
+.neo{
+  box-shadow:  inset 2px 2px 5px #224be2, inset -5px -5px 10px rgb(11, 108, 235);
+  width: 100%;
+  box-sizing: border-box;
+  transition: all 0.2s ease-in-out;
+  appearance: none;
+  border: 0;
+  outline: 0;
+  font-size: 16px;
+  border-radius: 20px;
+  padding: 5px;
+  background-color:#395be4;
+  text-shadow: 3px 1px 10px rgb(226, 172, 24);
+  color: #ffffff;
+}
+h2{
+  padding-right: 50px;
+}
